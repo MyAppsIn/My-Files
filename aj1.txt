@@ -1,3 +1,4 @@
 1.MCA
 2.MBA
 3.Btech
+4.BSc
